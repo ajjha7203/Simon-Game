@@ -1,0 +1,34 @@
+body{
+    margin: auto;
+}
+h2, h4, h5, .boxes1, .boxes2{
+    display: flex;
+    justify-content: center;
+}
+
+.box1, .box2, .box3, .box4{
+    margin: 1%;
+    width: 200px;
+    height: 200px;
+    border-radius: 15%;
+    border: 5px solid black;
+}
+
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: yellow;
+}
+.box4{
+    background-color: purple;
+}
+.gameFlash{
+    background-color: white;
+}
+.userFlash{
+    background-color: pink;
+}

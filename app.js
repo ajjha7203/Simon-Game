@@ -13,7 +13,7 @@ let btns = ["yellow", "red", "green", "purple"];
 let started = false;
 let level = 0;
 
-document.addEventListener("click", function(){
+document.addEventListener("keypress", function(){
     if(started == false){
         console.log("Game started");
         started = true;

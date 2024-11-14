@@ -1,36 +1,3 @@
-// let box1 = document.querySelector(".box1");
-// let box2 = document.querySelector(".box2");
-// let box3 = document.querySelector(".box3");
-// let box4 = document.querySelector(".box4");
-// let h5 = document.querySelector("h5");
-// let h2 = document.querySelector("h2");
-
-// box1.addEventListener("click", function(){
-//     console.log("Box1 clicked!")
-// });
-// box2.addEventListener("click", function(){
-//     console.log("Box2 clicked!")
-// });
-// box3.addEventListener("click", function(){
-//     console.log("Box3 clicked!")
-// });
-// box4.addEventListener("click", function(){
-//     console.log("Box4 clicked!")
-// });
-
-// box1.addEventListener("click", click);
-// box2.addEventListener("click", click);
-// box3.addEventListener("click", click);
-// box4.addEventListener("click", click);
-// h2.addEventListener("click", click);
-// h5.addEventListener("click", click);
-
-// function click(){
-//     console.log(`${this.innerText} clicked`);
-// }
-
-
-// ---------------------------
 let h2 = document.querySelector("h2");
 let h5 = document.querySelector("h5");
 let h4 = document.createElement("h4");
